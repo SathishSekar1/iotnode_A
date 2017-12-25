@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512940111 source:d:\itb files\software engineer\statemachine\main.cpp
+	<iostream>
+
+1514169745 source:d:\itb files\software engineer\codeblock\statemachine\main.cpp
+	<iostream>
+	<stdlib.h>
+	"windows.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515518971 source:d:\itb files\software engineer\codeblock\port1node\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
